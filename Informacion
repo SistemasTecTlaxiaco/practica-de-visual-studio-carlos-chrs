@@ -1,0 +1,12 @@
+# practica-de-visual-studio-carlos-chrs
+practica-de-visual-studio-carlos-chrs created by GitHub Classroom
+ en esta practica en visual studio se realiza un nterfaz grafica para una aplicacion para recargas
+ el codigo esta orenado asi:
+ 
+ inicio:  ventana 
+ principal para que el usuaro puedad acceder a la aplicacion
+ *   olvido su cintraseña? esta es otra ventana en la alicacion donde el usuario cuando se le olvide su contraseña pueda recuperarla
+ *  crear una cuenta: esta es otra de las ventanas con el cual andamos trabajando para ka creacion de un usuario para esa pagina.
+ * ventana para realizar el recarga  "recargar" este es otra ventana donde se va ingresar  datos para que podamos ejecutar .
+ *  perfil es otra de las ventanas que trae la interfaz y que esta basa en ver el perfil del usario ver la cantidad de  dinero disponible en la cuenta o recargar  .
+ estas son todas las ventanas que trae el imterfaz  lo unico que hizo fue moverce y crear varias copias o hacer que cada una tenga diferente funcionalidad
